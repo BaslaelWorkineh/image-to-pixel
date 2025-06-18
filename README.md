@@ -90,11 +90,24 @@ image-pixel/
 
 ### Input Images
 
-![test1.jpg](examples/test1.jpg)
-*test1.jpg - Sample input image*
-
-![test2.png](examples/test2.png)
-*test2.png - Sample input image with transparency*
+<table>
+  <tr>
+    <td>
+      <img src="examples/test1.jpg" alt="test1.jpg - Sample input image" width="150" height="150"/>
+    </td>
+    <td>
+      <img src="pixel/lemonpixel.png" alt="test2.png - Sample input image with transparency" width="150" height="150"/>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="examples/test2.jpg" alt="test2.jpg - Sample input image" width="150" height="150"/>
+    </td>
+    <td>
+      <img src="pixel/spidermanpixel.png" alt="test2.png - Sample input image with transparency" width="150" height="150"/>
+    </td>
+  </tr>
+</table>
 
 ## License
 
