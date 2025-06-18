@@ -86,6 +86,16 @@ image-pixel/
 └── Makefile       # Build system
 ```
 
+## Example Images
+
+### Input Images
+
+![test1.jpg](examples/test1.jpg)
+*test1.jpg - Sample input image*
+
+![test2.png](examples/test2.png)
+*test2.png - Sample input image with transparency*
+
 ## License
 
 Public domain. Uses STB libraries by Sean Barrett.
