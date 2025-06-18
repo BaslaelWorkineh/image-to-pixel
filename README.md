@@ -96,12 +96,18 @@ image-pixel/
       <img src="examples/test1.jpg" alt="test1.jpg - Sample input image" width="300" height="300"/>
     </td>
     <td>
+      <img src="pixel/lemonpixel-high.png" alt="test2.png - Sample input image with transparency" width="300" height="300"/>
+    </td>
+    <td>
       <img src="pixel/lemonpixel.png" alt="test2.png - Sample input image with transparency" width="300" height="300"/>
     </td>
   </tr>
   <tr>
     <td>
       <img src="examples/test2.png" alt="test2.png - Sample input image" width="300" height="300"/>
+    </td>
+    <td>
+      <img src="pixel/spidermanpixel-high.png" alt="test2.png - Sample input image with transparency" width="300" height="300"/>
     </td>
     <td>
       <img src="pixel/spidermanpixel.png" alt="test2.png - Sample input image with transparency" width="300" height="300"/>
